@@ -2,7 +2,7 @@
 
 ## Tasks
 
-#### 1. Read Head First Java First Two Chapters
+#### 1. Read Head First Java First Two Chapters                         (Done)
 
  
 #### 2. Start learning HTML and CSS and make a portfolio page
